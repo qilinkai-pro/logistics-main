@@ -1,0 +1,43 @@
+{
+  "n": 1500,
+  "below_n": 486,
+  "above_n": 1014,
+  "below_rate": 0.324,
+  "university_type": {
+    "univ_211": 570,
+    "double_first_class": 420,
+    "general_undergraduate": 315,
+    "vocational": 195
+  },
+  "course_level": {
+    "undergraduate_elective": 810,
+    "undergraduate_core": 690
+  },
+  "department": {
+    "engineering_technology": 675,
+    "interdisciplinary": 390,
+    "business_economics": 225,
+    "education_humanities": 210
+  },
+  "instructor_title": {
+    "associate_professor": 660,
+    "lecturer": 330,
+    "industry_mentor": 285,
+    "professor": 225
+  },
+  "below_total_mean": 42.94444444444444,
+  "below_total_sd": 7.840615902590737,
+  "above_total_mean": 14.95759368836292,
+  "above_total_sd": 6.048110547360179,
+  "t_total": 69.41254598026444,
+  "p_total": 0.0,
+  "below_tc_mean": 15.32716049382716,
+  "below_tc_sd": 3.569914804921093,
+  "below_tm_mean": 13.938271604938272,
+  "below_tm_sd": 3.334341199291871,
+  "below_ps_mean": 13.679012345679013,
+  "below_ps_sd": 5.559412177991098,
+  "n_collected": 1620,
+  "n_valid": 1500,
+  "recovery_rate": 0.9259259259259259
+}

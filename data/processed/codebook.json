@@ -1,0 +1,120 @@
+{
+  "y": {
+    "0": "above_standard",
+    "1": "below_standard",
+    "rule": "ie_cqes21_total>=29"
+  },
+  "university_type": [
+    "double_first_class",
+    "univ_211",
+    "general_undergraduate",
+    "vocational"
+  ],
+  "s4_course_level": [
+    "undergraduate_core",
+    "undergraduate_elective",
+    "postgraduate"
+  ],
+  "department": [
+    "business_economics",
+    "engineering_technology",
+    "education_humanities",
+    "interdisciplinary"
+  ],
+  "instructor_title": [
+    "lecturer",
+    "associate_professor",
+    "professor",
+    "industry_mentor"
+  ],
+  "funding_band": [
+    "lt_3000",
+    "3000_5999",
+    "6000_9999",
+    "10000_19999",
+    "ge_20000"
+  ],
+  "ie_items": {
+    "tc1": "objectives_alignment",
+    "tc2": "content_currency",
+    "tc3": "innovation_knowledge_depth",
+    "tc4": "case_authenticity",
+    "tc5": "interdisciplinary_industry",
+    "tc6": "assessment_alignment",
+    "tc7": "content_practice_support",
+    "tm1": "project_inquiry_teaching",
+    "tm2": "inclass_interaction",
+    "tm3": "digital_blended",
+    "tm4": "differentiated_guidance",
+    "tm5": "formative_feedback",
+    "tm6": "team_competition_learning",
+    "tm7": "intention_activation",
+    "ps1": "practice_hours",
+    "ps2": "platform_equipment",
+    "ps3": "school_enterprise",
+    "ps4": "industry_mentor_guidance",
+    "ps5": "real_project_access",
+    "ps6": "competition_incubation",
+    "ps7": "outcome_conversion"
+  },
+  "ie_score": {
+    "min": 0,
+    "max": 3
+  },
+  "predictors_continuous": [
+    "class_size",
+    "weekly_class_hours",
+    "semester_total_hours",
+    "funding_amount",
+    "learning_pressure",
+    "interaction_satisfaction",
+    "mentor_guidance",
+    "teaching_resources",
+    "industry_project_integration",
+    "coursework_heaviness",
+    "weekly_practice_freq",
+    "monthly_project_practice",
+    "weekly_team_project",
+    "enterprise_mentor_hours",
+    "perceived_weekly_hours",
+    "feedback_interval_days",
+    "perceived_funding_level"
+  ],
+  "predictors_categorical": [
+    "university_type",
+    "s4_course_level",
+    "department",
+    "instructor_title",
+    "funding_band",
+    "practice_intensity",
+    "practice_format",
+    "school_enterprise_support",
+    "feedback_regular",
+    "quality_investment_share",
+    "funding_stability",
+    "resource_allocation_stability"
+  ],
+  "ie_item_columns": [
+    "tc1",
+    "tc2",
+    "tc3",
+    "tc4",
+    "tc5",
+    "tc6",
+    "tc7",
+    "tm1",
+    "tm2",
+    "tm3",
+    "tm4",
+    "tm5",
+    "tm6",
+    "tm7",
+    "ps1",
+    "ps2",
+    "ps3",
+    "ps4",
+    "ps5",
+    "ps6",
+    "ps7"
+  ]
+}
